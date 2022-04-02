@@ -51,9 +51,9 @@ google_analytics:
 google_adsense:
   client:
 
-blame: ""
-edit: ""
-issue: ""
+blame: "https://github.com/jameskim1227/jameskim1227.github.io/blame/master/_wiki"
+edit: "https://github.com/jameskim1227/jameskim1227.github.io/edit/master/_wiki"
+issue: "https://github.com/jameskim1227/jameskim1227.github.io/issues/new"
 
 timezone: "Asia/Seoul"
 
