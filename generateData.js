@@ -200,7 +200,7 @@ function parseInfo(file, info) {
         modified: fs.statSync(file.path).mtime
     };
 
-    const rawData = info.split('\n');
+    const rawData = (info||'').split('\n');
 
     rawData.forEach(str => {
         const result = /^\s*([^:]+):\s*(.+)\s*$/.exec(str);
