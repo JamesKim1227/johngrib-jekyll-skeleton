@@ -1,1 +1,1 @@
-[[hello-wiki]]
+[[diary]]
