@@ -1,15 +1,15 @@
 # Site settings
-title: Kim Jong Tak 위키
+title: James's wiki page
 url: "https://jameskim1227.github.io"
 baseurl: ""
 description: >
-    Kim Jong Tak 블로그
+    James's personal wiki page
 
 # My information
 email: jameskim1227@gmail.com
-author: Kim Jong Tak
+author: James Kim
 profile: Minimalist
-github_username: JamesKim1227
+github_username: jameskim1227
 comment-support: utterances
 
 # Build settings
